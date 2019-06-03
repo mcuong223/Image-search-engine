@@ -1,5 +1,5 @@
 # Image-search-engine
-    A tool use for Image searching in local
+    A tool used for Image similarity search in local database
 
 # How to use?
 1. git clone https://github.com/ptran1203/Image-search-engine
